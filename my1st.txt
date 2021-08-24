@@ -2,5 +2,6 @@ i have to learn full stack programming
 - 1
 - 2
 - 3
-- i just have too
+
 - evolve
+- Semangat
